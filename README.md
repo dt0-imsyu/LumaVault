@@ -29,4 +29,10 @@ flutter run -d <device-id>
 
 ## Screenshots
 
-Screenshots are stored in `docs/screenshots` after device capture.
+Captured on a real Android device:
+
+| Auth | Dashboard | Analytics | Transactions |
+| --- | --- | --- | --- |
+| ![](docs/screenshots/01_auth_login.png) | ![](docs/screenshots/02_dashboard.png) | ![](docs/screenshots/03_analytics.png) | ![](docs/screenshots/04_transactions.png) |
+
+Full contact sheet: `docs/screenshots/contact_sheet.jpg`.

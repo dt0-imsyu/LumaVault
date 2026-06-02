@@ -1,5 +1,7 @@
 # LumaVault
 
+[English](README.md) | [Русский](README.ru.md)
+
 Portfolio-ready Flutter fintech app with authentication, live exchange-rate integration, budget analytics, transaction risk scoring, and a multi-tab product shell.
 
 ## Highlights
